@@ -8,26 +8,27 @@
 
 ## 🚀 About Me
 
-I'm a passionate Mechanical and Mechatronics Engineer with hands-on experience in advanced technologies such as:
+I'm a passionate Mechanical and Mechatronics Engineer with experience in:
 
-- 🤖 Robotics & Automation  
-  ![Robot](https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif)
+- 🤖 **Robotics & Automation**
+- 👁️ **Computer Vision**
+- 🧠 **Artificial Intelligence & Deep Learning**
+- 🚗 **ADAS Systems and Sensor Integration**
 
-- 🧠 Artificial Intelligence & Machine Learning  
-  ![AI](https://media.giphy.com/media/1ik4lFwC2p9Kxb1tqk/giphy.gif)
+I thrive on building real-world solutions using cutting-edge tools in robotics and vision systems.
 
-- 👁️ Computer Vision & Augmented Reality  
-  ![Computer Vision](https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif)
-
-I love turning innovative ideas into tangible projects and solving real-world problems through engineering and software.
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/674621/196027686-cf0981f7-8b5b-4f61-897b-89b6dfb3b82b.gif" width="70%" alt="robot-arm-working">
+</div>
 
 ---
 
 ## 🛠️ Technical Skills
 
-- **Languages & Frameworks**: Python, MATLAB/Simulink, ROS2, PyTorch, TensorFlow  
-- **Tools & Platforms**: Docker, Git, Solid Edge, OpenCV  
-- **Specialties**: ADAS Systems, Computer Vision, Depth Estimation, Robotics
+- **Languages**: Python, MATLAB/Simulink, C++
+- **Frameworks**: PyTorch, TensorFlow, ROS2
+- **Tools**: Docker, Git, OpenCV, Solid Edge
+- **Domains**: Computer Vision, Embedded Systems, Depth Estimation, Robotics
 
 ---
 
@@ -45,51 +46,63 @@ I love turning innovative ideas into tangible projects and solving real-world pr
 
 ## 💼 Experience
 
-- **Mechanical Engineer – DMG MORI (2023–2024)**  
-  Worked with CNC machines, PLC systems, and performed fault diagnostics and optimization.
+- **DMG MORI** – *Mechanical Engineer (2023–2024)*  
+  Troubleshooting CNC systems, PLC debugging, and failure analysis of high-precision machines.
 
-- **Mechanical Intern – BOSCH (2022)**  
-  Gained experience in logistics, hydraulic/pneumatic systems, and manufacturing processes.
+- **Bosch** – *Mechanical Intern (2022)*  
+  Hands-on with logistics, spark plug production, and pneumatic systems.
 
-- **Working Student – E-Drives (2020–2021)**  
-  Contributed to the design and development of an electric vehicle and its mechanical systems.
+- **E-Drives** – *Working Student (2020–2021)*  
+  Designed electric vehicle components, supported R&D and product development of e-mobility solutions.
 
 ---
 
-## 📌 Featured Projects
+## 📌 Projects
 
-### 📷 Vision-Based 3D Depth Estimation (YOLOv8 + KITTI)
-Estimated 3D distances of vehicles using 2D object detection and camera calibration.  
-![YOLO](https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif)
+### 🔍 Vision-Based 3D Depth Estimation  
+Used YOLOv8 and KITTI dataset to extract 3D object distances from 2D image detections.  
+<div align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*nYELy1TTgswz-zFucM59TQ.gif" width="60%" alt="depth-estimation">
+</div>
 
-### 🧿 Augmented Reality with ArUco Markers
-Used OpenCV to detect ArUco markers and superimpose virtual content accurately in real-world scenes.  
-![AR Marker](https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif)
+---
 
-### 🔥 3D Printed Fire-Fighting Robotic Arm
-Designed and programmed a robotic arm with Arduino to detect and extinguish indoor fires.  
-![Robotic Arm](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+### 🧿 Augmented Reality with ArUco Markers  
+Used OpenCV to detect markers and place digital content into physical space with precision.  
+<div align="center">
+  <img src="https://raw.githubusercontent.com/opencv/opencv/master/doc/pics/aruco_markers.jpg" width="50%" alt="aruco-marker-ar">
+</div>
+
+---
+
+### 🤖 3D Printed Fire-Fighting Robotic Arm  
+Arduino-powered robotic arm detecting and extinguishing small indoor fires with thermal sensors.  
+<div align="center">
+  <img src="https://media.tenor.com/ZCmRM32CLaUAAAAC/robot-arm.gif" width="50%" alt="fire-fighting-arm">
+</div>
 
 ---
 
 ## 🌍 Languages
 
 - **English**: C1  
-- **German**: A2 (actively improving)
+- **German**: A2 *(Learning)*
 
 ---
 
-## 📸 Hobbies & Interests
+## 🎯 Interests
 
-Cricket 🏏 | Photography 📷 | Travelling 🌍
+Cricket 🏏 | Photography 📷 | AI-Powered Robotics 🤖 | Travelling 🌍
 
 ---
 
 ## 🤝 Let's Connect
 
-- ✉️ [Email me](mailto:mohammedkumailabbas46@gmail.com)
-- 💻 Feel free to explore my repositories to see my latest projects and contributions.
+- 📧 [Email me](mailto:mohammedkumailabbas46@gmail.com)
+- 🧑‍💻 [RWU Mechatronics Page](https://www.rwu.de/en)
+- 👨‍🔬 Coming soon: Portfolio site + GitHub projects on robotics & AI
 
 ---
 
-⭐️ _“Engineering is not only about machines and systems — it’s about solving problems that matter.”_
+> _“Engineering is not just about machines; it's about imagining futures and building them.”_
+
