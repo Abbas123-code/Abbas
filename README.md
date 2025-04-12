@@ -10,10 +10,14 @@
 
 I'm a passionate Mechanical and Mechatronics Engineer with hands-on experience in advanced technologies such as:
 
-- 🤖 Robotics & Automation
-- 🧠 Artificial Intelligence & Machine Learning
-- 👁️ Computer Vision & Augmented Reality
-- 🔧 Embedded Systems & Sensors
+- 🤖 Robotics & Automation  
+  ![Robot](https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif)
+
+- 🧠 Artificial Intelligence & Machine Learning  
+  ![AI](https://media.giphy.com/media/1ik4lFwC2p9Kxb1tqk/giphy.gif)
+
+- 👁️ Computer Vision & Augmented Reality  
+  ![Computer Vision](https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif)
 
 I love turning innovative ideas into tangible projects and solving real-world problems through engineering and software.
 
@@ -21,7 +25,7 @@ I love turning innovative ideas into tangible projects and solving real-world pr
 
 ## 🛠️ Technical Skills
 
-- **Languages & Frameworks**: Python, MATLAB/Simulink, ROS2, Pytorch, TensorFlow  
+- **Languages & Frameworks**: Python, MATLAB/Simulink, ROS2, PyTorch, TensorFlow  
 - **Tools & Platforms**: Docker, Git, Solid Edge, OpenCV  
 - **Specialties**: ADAS Systems, Computer Vision, Depth Estimation, Robotics
 
@@ -55,13 +59,16 @@ I love turning innovative ideas into tangible projects and solving real-world pr
 ## 📌 Featured Projects
 
 ### 📷 Vision-Based 3D Depth Estimation (YOLOv8 + KITTI)
-Estimated 3D distances of vehicles using 2D object detection and camera calibration.
+Estimated 3D distances of vehicles using 2D object detection and camera calibration.  
+![YOLO](https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif)
 
 ### 🧿 Augmented Reality with ArUco Markers
-Used OpenCV to detect ArUco markers and superimpose virtual content accurately in real-world scenes.
+Used OpenCV to detect ArUco markers and superimpose virtual content accurately in real-world scenes.  
+![AR Marker](https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif)
 
 ### 🔥 3D Printed Fire-Fighting Robotic Arm
-Designed and programmed a robotic arm with Arduino to detect and extinguish indoor fires.
+Designed and programmed a robotic arm with Arduino to detect and extinguish indoor fires.  
+![Robotic Arm](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
 ---
 
@@ -81,7 +88,6 @@ Cricket 🏏 | Photography 📷 | Travelling 🌍
 ## 🤝 Let's Connect
 
 - ✉️ [Email me](mailto:mohammedkumailabbas46@gmail.com)
-- 🌐 [LinkedIn (optional: add your profile link if you'd like)]
 - 💻 Feel free to explore my repositories to see my latest projects and contributions.
 
 ---
