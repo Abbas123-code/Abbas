@@ -18,7 +18,7 @@ I'm a passionate Mechanical and Mechatronics Engineer with experience in:
 I thrive on building real-world solutions using cutting-edge tools in robotics and vision systems.
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/674621/196027686-cf0981f7-8b5b-4f61-897b-89b6dfb3b82b.gif" width="70%" alt="robot-arm-working">
+  <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="70%" alt="Robotics Automation">
 </div>
 
 ---
@@ -31,6 +31,10 @@ I thrive on building real-world solutions using cutting-edge tools in robotics a
 - **Domains**: Computer Vision, Embedded Systems, Depth Estimation, Robotics
 
 ---
+<div align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*nYELy1TTgswz-zFucM59TQ.gif" width="70%" alt="YOLO Object Detection">
+</div>
+
 
 ## 📚 Education
 
