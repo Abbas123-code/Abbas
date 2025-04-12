@@ -66,10 +66,6 @@ Used YOLOv8 and KITTI dataset to extract 3D object distances from 2D image detec
 
 ### 🧿 Augmented Reality with ArUco Markers  
 Used OpenCV to detect markers and place digital content into physical space with precision.  
-<div align="center">
-  <img src="https://raw.githubusercontent.com/opencv/opencv/master/doc/pics/aruco_markers.jpg" width="50%" alt="aruco-marker-ar">
-</div>
-
 ---
 
 ### 🤖 3D Printed Fire-Fighting Robotic Arm  
@@ -95,9 +91,8 @@ Cricket 🏏 | Photography 📷 | AI-Powered Robotics 🤖 | Travelling 🌍
 
 ## 🤝 Let's Connect
 
-- 📧 [Email me](mailto:mohammedkumailabbas46@gmail.com)
-- 🧑‍💻 [RWU Mechatronics Page](https://www.rwu.de/en)
-- 👨‍🔬 Coming soon: Portfolio site + GitHub projects on robotics & AI
+- 📧 Email:mohammedkumailabbas46@gmail.com
+- 👨‍🔬 Linkedin: www.linkedin.com/in/mohammed-kumail-abbas-7398651a6
 
 ---
 
